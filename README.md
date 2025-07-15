@@ -1,2 +1,2 @@
 # BotC-Scripts
-Repository of custom BOTC scripts, with json files for online grimoirs
+Repository of custom BotC scripts, with json files for online grimoirs
